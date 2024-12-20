@@ -16,7 +16,6 @@ img {
 
 .info-cards-wrapper {
   display: flex;
-  align-items: center;
   gap: 52px;
 }
 
